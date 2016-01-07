@@ -8,5 +8,5 @@ I changed the project structure a bit compared to the one suggested in the book:
 - instead I run 
    (django-tutorial3-env)$ django-admin.py startproject project 
   directly in the django-tutorial3 folder, which created in it project/project
-- then cd project && mv project myproject
-- now I have in django-tutorial3 a folder project which has myproject and manage.py. Added in here this README.md
+- then cd project && mv project tutorialsite
+- now I have in django-tutorial3 a folder project which has tutorialsite and manage.py. Added in here this README.md
