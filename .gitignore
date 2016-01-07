@@ -1,0 +1,6 @@
+#.gitignore
+*.pyc
+/tutorialsite/local_settings.py
+/tutorialsite/media/
+/tutorialsite/static/
+/tutorialsite/tmp/
